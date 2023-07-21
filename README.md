@@ -16,10 +16,11 @@ The tertiary structure of a protein is its three-dimensional (3D) folded shape a
    <div align="center">
     
 **3D STRUCTURE OF A PROTEIN**
-        </div>
+        
    
 ![Protein_struc](./Images/prot_struc.png)
-
+        </div>
+        
 <div align="right">
     
 *(Image source:pngwing.com)*
@@ -249,10 +250,12 @@ Here I performed both Train-Test splits and Cross-Validation on the final model.
     
 Scientific literature suggests that using Random Forest Regressor (RFR) modelling can help reduce the Mean Squared Error in a model and improve its accuracy. However, this requires significant computing power. I decided to run the RFR with the default settings to see if I could improve the modelling results.
     </div>
-    
+
+
 **RANDOM FOREST REGRESSOR MODEL ERROR RESULTS:**
 
 **Mean Squared Error is 12.012106346138834**
+
 
 <div align="justify">
     
