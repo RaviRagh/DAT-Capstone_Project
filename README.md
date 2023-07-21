@@ -16,10 +16,8 @@ The tertiary structure of a protein is its three-dimensional (3D) folded shape a
    <div align="center">
     
 **3D STRUCTURE OF A PROTEIN**
-       
-   
+          
 ![Protein_struc](./Images/prot_struc.png)
-    
     </div>
     
    <div align="right">
