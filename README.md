@@ -16,15 +16,16 @@ The tertiary structure of a protein is its three-dimensional (3D) folded shape a
    <div align="center">
     
 **3D STRUCTURE OF A PROTEIN**
-        
+       
    
 ![Protein_struc](./Images/prot_struc.png)
-        </div>
-        
-<div align="right">
+    
+    </div>
+    
+   <div align="right">
     
 *(Image source:pngwing.com)*
-     </div> 
+      </div>
 
  <div align = "justify">
     
@@ -126,7 +127,7 @@ Here I visualised whether the model satisfied the assumptions of linearity, homo
     
 ##### Linearity check
 
-[Linearity1](./Images/Linearity_check_Model1.png)
+![Linearity1](./Images/Linearity_check_Model1.png)
 
 ##### Skedasticity check
 
