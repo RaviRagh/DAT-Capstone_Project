@@ -216,7 +216,7 @@ Given that there was almost no difference in the two models, there was no point 
         
 1. There is no major difference between Models 1 and 2, in fact the statistics seem to have worsened. 
     
-2. The normality plot has also worsened, indicating that Model 1 is better for further analysis. No futher tweaking of the variables will improve the regression modelling.
+2. The normality plot has also worsened, indicating that Model 1 is better for further analysis. No further tweaking of the variables will improve the regression modelling.
             </div>
 
   <div align="justify">
